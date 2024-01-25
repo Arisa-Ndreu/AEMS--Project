@@ -1,2 +1,3 @@
 # AEMS--Project
-1234
+ARISA CONFECTION was founded in 1993, located in Tirana, Albania. Its main activity is the making of different types of clothes such as T-shirts, jackets, blazers, pants, capes, hoodies, etc. They get orders from different companies in Italy and Germany mainly. Their products are then exported in Italy, Germany and their partners. Due to the high amount of work that the company and its workers have to deal in the daily basis the efficiency is not 100% all the time. And this is exactly why we as developers thought to create such a software to optimize the amount of time that different people in the company spent to fulfill different tasks given. 
+By building AEMS, we tend to give the company a long-time solution to deal with its problems, by optimizing the time spent on daily tasks responsible for future growth.
